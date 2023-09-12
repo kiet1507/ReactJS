@@ -1,0 +1,165 @@
+.travel {
+    color: greenyellow;
+    font-size: 30px;
+  }
+  .agency {
+    color: rgb(63, 166, 255);
+    font-size: 30px;
+  }
+  h2 {
+    font-weight: bolder;
+  }
+  .social {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  .head {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 1400px;
+  }
+  .contact {
+    width: 250px;
+    height: 80px;
+  }
+  .head-2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .journey {
+    width: 1518px;
+    height: 600px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  .content-image {
+    position: relative;
+    bottom: 500px;
+    left: 350px;
+    font-weight: lighter;
+    font-size: 40px;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    width: 800px;
+  }
+  .content-image-2 {
+    position: relative;
+    bottom: 570px;
+    left: 350px;
+    font-weight: bolder;
+    font-size: 60px;
+    color: white;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 800px;
+  }
+  .content-image-3 {
+    position: relative;
+    bottom: 610px;
+    left: 350px;
+    width: 200px;
+    height: 60px;
+    background-color: orange;
+    color: white;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+  }
+  .big-3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+    position: relative;
+    bottom: 278px;
+    height: 300px;
+    width: 1518px;
+    background-color: rgb(234, 234, 234);
+  }
+  
+  .content-image-3:hover {
+    opacity: 0.8;
+    transition: 0.8s;
+  }
+  .icon-1,
+  .icon-2,
+  .icon-3 {
+    color: white;
+    height: 130px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 290px;
+    font-size: 30px;
+  }
+  .icon-1 {
+    background-color: orange;
+    border: none;
+    cursor: pointer;
+  }
+  .icon-2 {
+    background-color: rgb(63, 166, 255);
+    border: none;
+    cursor: pointer;
+  }
+  .icon-3 {
+    background-color: greenyellow;
+    border: none;
+    cursor: pointer;
+  }
+  .icon-3:hover {
+    opacity: 0.8;
+    transition: 0.8s;
+  }
+  .icon-1:hover {
+    opacity: 0.8;
+    transition: 0.8s;
+  }
+  .icon-2:hover {
+    opacity: 0.8;
+    transition: 0.8s;
+  }
+  .offer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10px;
+    position: relative;
+    bottom: 280px;
+    left: 70px;
+    width: 1400px;
+  }
+  .head-3 {
+    margin: 0px;
+    font-size: 40px;
+    color:rgb(7, 12, 105);
+  }
+  .content-offer {
+    margin: 0px;
+  }
+  .miami {
+    width: 400px;
+    height: 350px;
+  }
+  .tour {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    position: relative;
+    bottom: 240px;
+    width: 1400px;
+  }
+  h3 {
+    margin: 0px;
+    color: rgb(7, 12, 105);
+  }
+  .copy{
+    width:1518px;
+    background-color: rgb(3, 5, 37);
+    color:white;
+    height:80px;
+  }
+  
